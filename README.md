@@ -2,6 +2,7 @@
 A, probably, not very good example of WaveFuntionCollapse in C++, UI based on SFML.
 
 (The .exe is just the .cpp file built.)
+
 To run:
 Donwnload the .exe file and the "images" folder and put them in the same directory.
 Open the .exe file.
