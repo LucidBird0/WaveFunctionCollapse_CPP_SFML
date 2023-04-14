@@ -13,3 +13,5 @@ There is plenty of room for implementations.
 I'm not an expert. I try my best as i learn.
 
 
+<p align="center"><img alt="WFC Terrain" src="samples/TerrainRaw1024x256.jpeg"></p>
+<p align="center"><img alt="WFC Pattern" src="samples/grid12x12.jpg"></p>
